@@ -7,7 +7,7 @@ https://code.visualstudio.com/
 Eclipse  
 https://www.eclipse.org/
 
-Jetbrains - IDEA  
+Jet brains - IDEA  
 https://www.jetbrains.com/idea/
 
 Anaconda  
@@ -24,4 +24,21 @@ https://github.com/
 
 
 GitLab  
-https://gitlab.com/
+https://gitlab.com/  
+
+
+
+<br>
+
+# Server & Container  
+
+nginx  
+https://nginx.org/en/  
+
+
+Docker  
+https://www.docker.com/
+
+
+Kubernetes  
+https://kubernetes.io/
