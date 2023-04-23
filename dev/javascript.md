@@ -40,8 +40,31 @@ https://reactnative.dev/
  
 
 react-devtools  
-https://github.com/facebook/react/tree/main/packages/react-devtools
+https://github.com/facebook/react/tree/main/packages/react-devtools  
 
+
+Next.js  
+https://nextjs.org/  
+
+
+Create React App   
+https://create-react-app.dev/  
+
+
+CRACO - Configue CRA  
+https://craco.js.org/  
+
+
+Jotai  
+https://jotai.org/  
+
+
+ahooks  
+https://ahooks.js.org/  
+
+
+TanStack Query  
+https://tanstack.com/query/latest  
 
 <br>  
 
@@ -49,27 +72,87 @@ https://github.com/facebook/react/tree/main/packages/react-devtools
 Vue.js  
 https://vuejs.org/  
 
-Element UI  
-https://element-plus.gitee.io/zh-CN/  
+Vite  
+https://vitejs.dev/  
 
+Element UI  
+https://element.eleme.cn/#/zh-CN  
+
+
+Element Plus  
+https://element-plus.gitee.io/  
+
+
+Nuxt  
+https://nuxtjs.org/  
+
+
+VuePress  
+https://www.vuepress.cn/  
 
 
 <br>  
 
-# Dev Tools
+# Common tools  
+
+Axios  
+https://axios-http.com/
+
+
+Jest  
+https://jestjs.io/  
+
+
+ESlint  
+https://eslint.org/  
+
+
+Immer  
+https://immerjs.github.io/immer/  
+
+
+Gatsby  
+https://www.gatsbyjs.com/  
+
+
+Verdaccio  
+https://verdaccio.org/  
+
+
+# Dev Tools  
+
+## Bundler
 webpack  
 https://webpack.js.org/   
 
 
-
-TypeScript  
-https://www.tslang.cn/index.html  
-
+Rollup  
+https://rollupjs.org/  
 
 
+Parcel  
+https://parceljs.org/  
+
+
+Babel  
+https://babeljs.io/  
+
+
+Gulp  
+https://gulpjs.com/  
+
+
+Turbo  
+https://turbo.build/  
+
+
+## IDE  
 VS Code  
 https://code.visualstudio.com/
 
+
+Yarn  
+https://yarnpkg.com/  
 
 
 jest  
@@ -81,7 +164,8 @@ https://facebook.github.io/jest/
 
 # Scaffold  
 Umi-js  
-https://umijs.org/zh-CN
+https://umijs.org/zh-CN  
+https://v3.umijs.org/zh-CN  
 
 DVA-js  
 https://dvajs.com/
@@ -90,8 +174,13 @@ DUMI
 https://d.umijs.org/  
 
 
-Create-React-App  
-https://create-re1act-app.dev/   
+# Language  
+JQuery  
+https://jquery.com/
+
+
+TypeScript  
+https://www.tslang.cn/index.html  
 
 
 
@@ -101,26 +190,61 @@ https://create-re1act-app.dev/
 
 ## UI 
 Ant Design  
-https://ant.design/
+https://ant.design/  
+https://ant-design.antgroup.com/  
+
 
 Ant Design Pro  
-https://pro.ant.design/
+https://pro.ant.design/  
 
 
 Bootstrap  
-https://getbootstrap.com/
+https://getbootstrap.com/  
+
+
+React Bootstrap  
+https://react-bootstrap.github.io/  
 
 
 Material UI  
-https://mui.com/
+https://mui.com/  
+
+
+Fluent UI  
+https://developer.microsoft.com/en-us/fluentui  
+
+
+Semantic UI  
+https://react.semantic-ui.com/  
+
+
+Evergreen  
+https://evergreen.segment.com/  
+
+
+TDesign  
+https://tdesign.tencent.com/  
+
+
+Chakra UI  
+https://chakra-ui.com/  
+
+
+Theme UI  
+https://theme-ui.com/  
+
+
+Rebase UI
+https://rebassjs.org/  
+
 
 <br>  
 
 
 
-## Chart  
-Echart  
-https://echarts.apache.org/en/index.html
+## 2D  
+Apache Echart  
+https://echarts.apache.org/
 
 
 Ant Design Chart  
@@ -130,30 +254,18 @@ https://charts.ant.design/
 BizCharts  
 https://bizcharts.net/products/bizCharts  
 
+
+Chart.js  
+https://www.chartjs.org/  
+
+
+BPMN  
+https://bpmn.io/  
+
+
 <br>  
 
 
-## GIS
-Openlayers  
-https://openlayers.org/  
-
-CesiumJS  
-https://cesium.com/platform/cesiumjs/  
-
-
-TurfJS   
-http://turfjs.org/  
- 
-Mapbox  
-https://docs.mapbox.com/mapbox-gl-js/
-
-
-AMap / 高德  
-https://lbs.amap.com/api/javascript-api/reference/core
-
-
-AntV-L7  
-https://antv-l7.gitee.io/zh/docs/api/map  
 
 
 
@@ -164,8 +276,10 @@ https://antv-l7.gitee.io/zh/docs/api/map
 AntV  
 https://antv.gitee.io/zh/
 
+
 ThreeJS  
 https://threejs.org/   
+
 
 ThingJS  
 https://www.thingjs.com/guide/  
@@ -184,3 +298,51 @@ https://www.hightopo.com/
 
 
  
+
+## GIS  
+
+Openlayers  
+https://openlayers.org/  
+
+
+CesiumJS  
+https://cesium.com/platform/cesiumjs/  
+
+
+TurfJS   
+http://turfjs.org/  
+
+ 
+Mapbox  
+https://docs.mapbox.com/mapbox-gl-js/
+
+
+AMap / 高德  
+https://lbs.amap.com/api/javascript-api/reference/core
+
+
+AntV-L7  
+https://antv-l7.gitee.io/zh/docs/api/map  
+https://l7.antv.vision/zh/docs/api/l7  
+http://antv-2018.alipay.com/zh-cn/l7/1.x/index.html  
+
+
+
+<br/>
+
+# Infrastrcture
+
+Single SPA  
+https://single-spa.js.org/  
+
+
+qiankun
+https://qiankun.umijs.org/
+
+
+# Tutorials  
+阮一峰 ES6 教程   
+https://es6.ruanyifeng.com/  
+
+阮一峰 javascript 标准参考教程   
+https://javascript.ruanyifeng.com/

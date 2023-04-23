@@ -35,3 +35,18 @@ https://shimo.im/
 有道云笔记  
 https://note.youdao.com/  
 
+
+<br>
+
+
+# Life / 生活
+淘宝  
+https://www.taobao.com/
+
+支付宝  
+https://www.alipay.com/
+
+网易  
+http://126.com/
+
+
